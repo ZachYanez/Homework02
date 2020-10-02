@@ -3,4 +3,4 @@
 You can see how I'm very active in multiple industries. Find links to my work, instagram, youtube, teaching pages, and published material.
 
 
-Deployed Page: 
+Deployed Page: https://zachyanez.github.io/Homework02/index.html
