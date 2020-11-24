@@ -1,3 +1,9 @@
 .jumbobackground {
     background-image: url(./assets/techimg.png)
 }
+
+
+.spotify-embed {
+    padding: 0%;
+    margin-right: 15%;
+}
